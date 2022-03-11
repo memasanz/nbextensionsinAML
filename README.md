@@ -22,3 +22,9 @@ conda install -c conda-forge jupyter_nbextensions_configurator
 ![Graphical user interface, application Description automatically generated](media/865b42ebb7d942f09341fabc0f582dfd.png)
 
 ![Graphical user interface, text, application, email Description automatically generated](media/94fa314e9a38e615d9f87a6817ff16bb.png)
+
+To Enable Intellisense:
+
+%config IPCompleter.greedy=True
+
+Then Tab will provide auto complete
