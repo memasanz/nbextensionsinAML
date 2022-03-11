@@ -9,13 +9,15 @@ Select the terminal
 
 ![](media/94407d16112fbb76904a5b0492d236e4.png)
 
+```
 pip install jupyter_contrib_nbextensions
 
 jupyter contrib nbextension install --user
 
 conda install -c conda-forge jupyter_nbextensions_configurator
+```
 
-Reboot Machine
+**Reboot Machine**
 
 ![Graphical user interface, application Description automatically generated](media/865b42ebb7d942f09341fabc0f582dfd.png)
 
